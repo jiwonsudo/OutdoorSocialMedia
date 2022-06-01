@@ -15,6 +15,10 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>이 앱은 사용자의 위치 표시와 가까운 스팟을 찾기 위해 위치 정보를 사용합니다.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>이 앱은 사용자의 위치 표시와 가까운 스팟을 찾기 위해 위치 정보를 사용합니다.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
